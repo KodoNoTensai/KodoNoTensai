@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## About Me :<br><br>🛠️ I’m currently working on my Informatics studies at university  <br>🤝 I’m looking to collaborate on coding projects  <br>🙌 I’m looking for help with improving my coding skills  <br>🌱 I’m currently learning Python (I have some experience with C++)  <br>💬 Ask me about web development or anything related to programming  <br>⚡ Fun fact: I love watching anime!  <br>
 
 
